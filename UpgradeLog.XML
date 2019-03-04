@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pong">
+</Property><Property Name="Solution File" Value="D:\ClaveFaXNA4\pong\Pong\Pong.sln">
+</Property><Property Name="Date" Value="terça-feira, 3 de janeiro de 2012">
+</Property><Property Name="Time" Value="19:32">
+</Property><Property Name="Solution" Value="Pong">
+</Property><Property Name="Solution File" Value="D:\ClaveFaXNA4\pong\Pong\Pong.sln">
+</Property><Property Name="Date" Value="terça-feira, 3 de janeiro de 2012">
+</Property><Property Name="Time" Value="19:32:51">
+</Property></Properties><Event ErrorLevel="0" Project="Pong" Source="Pong\Pong.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Pong" Source="Pong\Pong.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pong" Source="Pong\Pong.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pong.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pong.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pong" Source="Pong\Pong.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Pong" Source="Pong\Pong.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="PongContent" Source="Pong\Content\PongContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>
